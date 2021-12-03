@@ -1,0 +1,6 @@
+a=5;
+switch(a)
+print(111);
+case 5: print(555);
+case 6: print(666);
+default: print(999);

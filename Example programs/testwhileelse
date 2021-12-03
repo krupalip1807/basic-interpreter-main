@@ -1,0 +1,7 @@
+a=0;
+while(a>0){
+ print(123); 
+ a=a-1;
+}else{
+ print(789);
+}
